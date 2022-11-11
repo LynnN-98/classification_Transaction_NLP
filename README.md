@@ -1,4 +1,4 @@
-# classification_Transaction_NLP
+# Determine Transaction Categories Using Machine Learning and NLP
 
 It is no surprise that financial companies need to help their customers organize their finances. Customers want to know what they spend their money on to keep balances in check. By categorizing transactions and building better customer engagement tools, Wells Fargo can help customers identify frequent purchases and subscriptions, sort income and activity liability with higher accuracy, and reduce credit risks. 
 
